@@ -1,5 +1,9 @@
-updating inmaster branch ..
+this is an amazon project ..
+updating in master branch ..
 this line is updating in development branch ..
-this is the normal text file
+this is the normal text file ..
 
-updating the code to pull
+updating the code to pull ..
+
+to conform the process ..
+written by balajireddy ..
