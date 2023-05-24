@@ -4,5 +4,5 @@ parent of 177b024... updated deploy.sh
 this file contains the deploy script
 
 
-balaji reddy
+balaji reddy c
 
